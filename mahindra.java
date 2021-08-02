@@ -2,6 +2,6 @@ public class login
 {
 	public static void main (string args[])
 	{ 
-		a=1000
+		a=5000
 	}
 }
